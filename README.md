@@ -1,9 +1,6 @@
 # NQueens-Puzzle-using-MiniSAT
 Solving NQueens Puzzle using MiniSAT
 
-N-Queens Problem using MiniSAT
-===============================
-
 Description:
 ===================
 This program takes an integer 'n' as input(where 'n' signifies nXn chess board) and finds a solution to the n-queens problem by encoding it into SAT.
